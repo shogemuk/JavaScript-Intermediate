@@ -10,7 +10,7 @@ let style_info = styles.style_info;
 let style_subtitle = styles.style_subtitle;
 
 
-console.group('%cTitle',style_title);
+console.group('%cXHR - XMLHTTPRequest',style_title);
     console.groupCollapsed('Click To Ooen');
         console.info('%cSubtitle',style_subtitle);
 

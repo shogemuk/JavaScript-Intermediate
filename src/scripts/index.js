@@ -24,7 +24,10 @@ import '../styles/index.scss';
 // import './models/bom-dom.js';
 
 // ERROR HANDLING
-import './models/error-handling.js';
+// import './models/error-handling.js';
 
 //PROMISE
 // import './models/promise.js';
+
+//XHR - AJAX
+import './models/ajax.js';
