@@ -1,5 +1,11 @@
-$body-color: blue;
+$font-color: #fff;
+$background-color: #000;
+
+.hidden{
+  display:none;
+}
 
 body {
-  color: $body-color;
+  color: $font-color;
+  background:$background-color;
 }
