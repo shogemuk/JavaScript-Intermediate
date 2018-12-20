@@ -30,4 +30,7 @@ import '../styles/index.scss';
 // import './models/promise.js';
 
 //XHR - AJAX
-import './models/ajax.js';
+// import './models/ajax.js';
+
+// FORMS
+import './models/forms.js';
